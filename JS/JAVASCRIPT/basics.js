@@ -60,6 +60,61 @@
 
 
 
+// function abc(a,b,c,...array){       //rest parameter
+//     console.log(a,b,c,array)
+// }
+// abc(1,2,3,4,5,3,5)
+
+
+
+
+// console.log(a)                          //hoisting(variable and funtion declaration part move on top)
+// var a=10
+
+
+
+
+
+
+// var shery=(function sl(){                      //immidiate invoked function expression
+//     var a=11;
+//     return{
+//         e: function(){
+//             console.log(a)
+//         },
+//         f: function(){
+//             console.log('f');
+//         }
+//     }
+// })();
+
+
+
+
+// function abc(){                                     //higher order function
+
+//     return function(){
+//         return function(){
+//             console.log('hello')
+//         }
+//     }
+// }               
+// abc()()();      
+
+
+
+// function abcd(val){
+//     val();
+// }
+
+// abcd(function(){
+//     console.log('hello')
+// })
+
+
+
+
+
 
 
 

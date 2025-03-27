@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    
+}
+
+/* .makered{
+    color: red;
+}
+
+#box{
+    background-color: aquamarine;
+} */
+
+
+/* p1 */
+/* body{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+
+/* #card{
+    background-color: white;
+    padding: 20px 40px;
+    border-radius: 15px;
+    text-align: center;
+    justify-content: center;
+}
+
+h3{
+    color: red;
+}
+
+button{
+padding: 20px 40px;
+margin: 5px;
+border-radius: 20px;
+box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.582);
+} */
+
+
+
+/* p2 */
+
+/* body{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+    flex-direction: column;
+}
+#box{
+    height: 300px;
+    width: 300px;
+    background-color: antiquewhite;
+    border-radius: 50%;
+    border: 6px solid white;
+   
+}
+
+button{
+    padding: 10px 10px;
+    border-radius: 7px
+} */
